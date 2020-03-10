@@ -62,6 +62,7 @@ module.exports = {
     'react/prefer-stateless-function': 'warn',
     'react/jsx-indent': 'off',
     'react/display-name': 'off',
+    'react/react-in-jsx-scope': 'off',
 
     // React-Hooks Plugin
     // The following rules are made available via `eslint-plugin-react-hooks`
